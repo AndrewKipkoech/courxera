@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">courxera</string>
+    <string name= "username">Username:</string>
+    <string name="usernameHint">School Email</string>
+    <string name="passHint">School ID</string>
+    <string name="password">Password:</string>
+    <string name="login">LOGIN</string>
+    <string name="logo">logo</string>
+</resources>
