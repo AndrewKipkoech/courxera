@@ -1,9 +1,22 @@
 <resources>
     <string name="app_name">courxera</string>
-    <string name= "username">Username:</string>
+    <string name="username">Username:</string>
     <string name="usernameHint">School Email</string>
     <string name="passHint">School ID</string>
     <string name="password">Password:</string>
-    <string name="login">LOGIN</string>
+    <string name="login">Student</string>
+    <string name="admin">Admin</string>
     <string name="logo">logo</string>
+    <string name="addCourses"> Add|Delete|Update Course</string>
+    <string name="coursename">Course name:</string>
+    <string name="coursTime">Course time:</string>
+    <string name="courseId">Course ID:</string>
+    <string name="hintId">Only when updating|deleting</string>
+    <string name="credits"> Credits:</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnView">View</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+
+
 </resources>
